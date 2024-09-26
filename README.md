@@ -1,4 +1,4 @@
-# lista
+# lista, practica 8
 prueba de envio de codigo y de screenshot
 
 ![image](https://github.com/user-attachments/assets/1a83b1c2-369a-4c8e-bbe2-dc570dc1ec11)
